@@ -1,0 +1,41 @@
+.DS_Store
+.RData
+.Rhistory
+
+# Compiled sources
+*.dll
+*.exe
+*.pyc
+
+# Data files
+*.csv
+*.dat
+*.dmg
+*.gz
+*.html
+*.iso
+*.jar
+*.jpg
+*.jpeg
+*.pdf
+*.png
+*.rar
+*.rtf
+*.tar
+*.tif
+*.tiff
+*.txt
+*.xlsx
+*.xls
+*.xml
+*.zip
+*.7z
+
+#connection file
+*.pem
+
+# Logging
+*.log
+
+Untitled.ipynb
+.ipynb_checkpoints/Untitled-checkpoint.ipynb
